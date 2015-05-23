@@ -1,0 +1,452 @@
+[
+    {
+        "id": "1",
+        "abbrev": "AL",
+        "state": "Alabama",
+        "capital": "Montgomery",
+        "lat": "32.380120",
+        "long": "-86.300629",
+        "population": "205764"
+    },
+    {
+        "id": "2",
+        "abbrev": "AK",
+        "state": "Alaska",
+        "capital": "Juneau",
+        "lat": "58.299740",
+        "long": "-134.406794",
+        "population": "31275"
+    },
+    {
+        "id": "4",
+        "abbrev": "AZ",
+        "state": "Arizona",
+        "capital": "Phoenix",
+        "lat": "33.448260",
+        "long": "-112.075774",
+        "population": "1445632"
+    },
+    {
+        "id": "5",
+        "abbrev": "AR",
+        "state": "Arkansas",
+        "capital": "Little Rock",
+        "lat": "34.748655",
+        "long": "-92.274494",
+        "population": "193524"
+    },
+    {
+        "id": "6",
+        "abbrev": "CA",
+        "state": "California",
+        "capital": "Sacramento",
+        "lat": "38.579065",
+        "long": "-121.491014",
+        "population": "466488"
+    },
+    {
+        "id": "8",
+        "abbrev": "CO",
+        "state": "Colorado",
+        "capital": "Denver",
+        "lat": "39.740010",
+        "long": "-104.992259",
+        "population": "600158"
+    },
+    {
+        "id": "9",
+        "abbrev": "CT",
+        "state": "Connecticut",
+        "capital": "Hartford",
+        "lat": "41.763325",
+        "long": "-72.674069",
+        "population": "124775"
+    },
+    {
+        "id": "10",
+        "abbrev": "DE",
+        "state": "Delaware",
+        "capital": "Dover",
+        "lat": "39.158035",
+        "long": "-75.524734",
+        "population": "36047"
+    },
+    {
+        "id": "12",
+        "abbrev": "FL",
+        "state": "Florida",
+        "capital": "Tallahassee",
+        "lat": "30.439775",
+        "long": "-84.280649",
+        "population": "181376"
+    },
+    {
+        "id": "13",
+        "abbrev": "GA",
+        "state": "Georgia",
+        "capital": "Atlanta",
+        "lat": "33.748315",
+        "long": "-84.391109",
+        "population": "420003"
+    },
+    {
+        "id": "15",
+        "abbrev": "HI",
+        "state": "Hawaii",
+        "capital": "Honolulu",
+        "lat": "21.304770",
+        "long": "-157.857614",
+        "population": "337256"
+    },
+    {
+        "id": "16",
+        "abbrev": "ID",
+        "state": "Idaho",
+        "capital": "Boise",
+        "lat": "43.606980",
+        "long": "-116.193409",
+        "population": "205671"
+    },
+    {
+        "id": "17",
+        "abbrev": "IL",
+        "state": "Illinois",
+        "capital": "Springfield",
+        "lat": "39.801055",
+        "long": "-89.643604",
+        "population": "116250"
+    },
+    {
+        "id": "18",
+        "abbrev": "IN",
+        "state": "Indiana",
+        "capital": "Indianapolis",
+        "lat": "39.766910",
+        "long": "-86.149964",
+        "population": "820445"
+    },
+    {
+        "id": "19",
+        "abbrev": "IA",
+        "state": "Iowa",
+        "capital": "Des Moines",
+        "lat": "41.589790",
+        "long": "-93.615659",
+        "population": "203433"
+    },
+    {
+        "id": "20",
+        "abbrev": "KS",
+        "state": "Kansas",
+        "capital": "Topeka",
+        "lat": "39.049285",
+        "long": "-95.671184",
+        "population": "127473"
+    },
+    {
+        "id": "21",
+        "abbrev": "KY",
+        "state": "Kentucky",
+        "capital": "Frankfort",
+        "lat": "38.195070",
+        "long": "-84.878694",
+        "population": "25527"
+    },
+    {
+        "id": "22",
+        "abbrev": "LA",
+        "state": "Louisiana",
+        "capital": "Baton Rouge",
+        "lat": "30.443345",
+        "long": "-91.186994",
+        "population": "229493"
+    },
+    {
+        "id": "23",
+        "abbrev": "ME",
+        "state": "Maine",
+        "capital": "Augusta",
+        "lat": "44.318036",
+        "long": "-69.776218",
+        "population": "19136"
+    },
+    {
+        "id": "24",
+        "abbrev": "MD",
+        "state": "Maryland",
+        "capital": "Annapolis",
+        "lat": "38.976700",
+        "long": "-76.489934",
+        "population": "38394"
+    },
+    {
+        "id": "25",
+        "abbrev": "MA",
+        "state": "Massachusetts",
+        "capital": "Boston",
+        "lat": "42.358635",
+        "long": "-71.056699",
+        "population": "617594"
+    },
+    {
+        "id": "26",
+        "abbrev": "MI",
+        "state": "Michigan",
+        "capital": "Lansing",
+        "lat": "42.731940",
+        "long": "-84.552249",
+        "population": "114297"
+    },
+    {
+        "id": "27",
+        "abbrev": "MN",
+        "state": "Minnesota",
+        "capital": "Saint Paul",
+        "lat": "44.943829",
+        "long": "-93.093326",
+        "population": "285068"
+    },
+    {
+        "id": "28",
+        "abbrev": "MS",
+        "state": "Mississippi",
+        "capital": "Jackson",
+        "lat": "32.298690",
+        "long": "-90.180489",
+        "population": "173514"
+    },
+    {
+        "id": "29",
+        "abbrev": "MO",
+        "state": "Missouri",
+        "capital": "Jefferson City",
+        "lat": "38.577515",
+        "long": "-92.177839",
+        "population": "43079"
+    },
+    {
+        "id": "30",
+        "abbrev": "MT",
+        "state": "Montana",
+        "capital": "Helana",
+        "lat": "46.589760",
+        "long": "-112.021202",
+        "population": "28190"
+    },
+    {
+        "id": "31",
+        "abbrev": "NE",
+        "state": "Nebraska",
+        "capital": "Lincoln",
+        "lat": "40.813620",
+        "long": "-96.707739",
+        "population": "258379"
+    },
+    {
+        "id": "32",
+        "abbrev": "NV",
+        "state": "Nevada",
+        "capital": "Carson City",
+        "lat": "39.164885",
+        "long": "-119.766999",
+        "population": "55274"
+    },
+    {
+        "id": "33",
+        "abbrev": "NH",
+        "state": "New Hampshire",
+        "capital": "Concord",
+        "lat": "43.207250",
+        "long": "-71.536604",
+        "population": "42695"
+    },
+    {
+        "id": "34",
+        "abbrev": "NJ",
+        "state": "New Jersey",
+        "capital": "Trenton",
+        "lat": "40.217875",
+        "long": "-74.759404",
+        "population": "84913"
+    },
+    {
+        "id": "35",
+        "abbrev": "NM",
+        "state": "New Mexico",
+        "capital": "Santa Fe",
+        "lat": "35.691543",
+        "long": "-105.937406",
+        "population": "67947"
+    },
+    {
+        "id": "36",
+        "abbrev": "NY",
+        "state": "New York",
+        "capital": "Albany",
+        "lat": "42.651445",
+        "long": "-73.755254",
+        "population": "97856"
+    },
+    {
+        "id": "37",
+        "abbrev": "NC",
+        "state": "North Carolina",
+        "capital": "Raleigh",
+        "lat": "35.785510",
+        "long": "-78.642669",
+        "population": "403892"
+    },
+    {
+        "id": "38",
+        "abbrev": "ND",
+        "state": "North Dakota",
+        "capital": "Bismarck",
+        "lat": "46.805372",
+        "long": "-100.779334",
+        "population": "61272"
+    },
+    {
+        "id": "39",
+        "abbrev": "OH",
+        "state": "Ohio",
+        "capital": "Columbus",
+        "lat": "39.961960",
+        "long": "-83.002984",
+        "population": "787033"
+    },
+    {
+        "id": "40",
+        "abbrev": "OK",
+        "state": "Oklahoma",
+        "capital": "Oklahoma City",
+        "lat": "35.472015",
+        "long": "-97.520354",
+        "population": "579999"
+    },
+    {
+        "id": "41",
+        "abbrev": "OR",
+        "state": "Oregon",
+        "capital": "Salem",
+        "lat": "44.933260",
+        "long": "-123.043814",
+        "population": "154637"
+    },
+    {
+        "id": "42",
+        "abbrev": "PA",
+        "state": "Pennsylvania",
+        "capital": "Harrisburg",
+        "lat": "40.259865",
+        "long": "-76.882230",
+        "population": "49528"
+    },
+    {
+        "id": "44",
+        "abbrev": "RI",
+        "state": "Rhode Island",
+        "capital": "Providence",
+        "lat": "41.823875",
+        "long": "-71.411994",
+        "population": "178042"
+    },
+    {
+        "id": "45",
+        "abbrev": "SC",
+        "state": "South Carolina",
+        "capital": "Columbia",
+        "lat": "33.998550",
+        "long": "-81.045249",
+        "population": "129272"
+    },
+    {
+        "id": "46",
+        "abbrev": "SD",
+        "state": "South Dakota",
+        "capital": "Pierre",
+        "lat": "44.368924",
+        "long": "-100.350158",
+        "population": "13646"
+    },
+    {
+        "id": "47",
+        "abbrev": "TN",
+        "state": "Tennessee",
+        "capital": "Nashville",
+        "lat": "36.167783",
+        "long": "-86.778365",
+        "population": "601222"
+    },
+    {
+        "id": "48",
+        "abbrev": "TX",
+        "state": "Texas",
+        "capital": "Austin",
+        "lat": "30.267605",
+        "long": "-97.742984",
+        "population": "790390"
+    },
+    {
+        "id": "49",
+        "abbrev": "UT",
+        "state": "Utah",
+        "capital": "Salt Lake City",
+        "lat": "40.759505",
+        "long": "-111.888229",
+        "population": "186440"
+    },
+    {
+        "id": "50",
+        "abbrev": "VT",
+        "state": "Vermont",
+        "capital": "Montpelier",
+        "lat": "44.260299",
+        "long": "-72.576264",
+        "population": "7855"
+    },
+    {
+        "id": "51",
+        "abbrev": "VA",
+        "state": "Virginia",
+        "capital": "Richmond",
+        "lat": "37.540700",
+        "long": "-77.433654",
+        "population": "204214"
+    },
+    {
+        "id": "53",
+        "abbrev": "WA",
+        "state": "Washington",
+        "capital": "Olympia",
+        "lat": "47.039231",
+        "long": "-122.891366",
+        "population": "46478"
+    },
+    {
+        "id": "54",
+        "abbrev": "WV",
+        "state": "West Virginia",
+        "capital": "Charleston",
+        "lat": "38.350195",
+        "long": "-81.638989",
+        "population": "51400"
+    },
+    {
+        "id": "55",
+        "abbrev": "WI",
+        "state": "Wisconsin",
+        "capital": "Madison",
+        "lat": "43.072950",
+        "long": "-89.386694",
+        "population": "233209"
+    },
+    {
+        "id": "56",
+        "abbrev": "WY",
+        "state": "Wyoming",
+        "capital": "Cheyenne",
+        "lat": "41.134815",
+        "long": "-104.821544",
+        "population": "59466"
+    }
+]

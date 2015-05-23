@@ -1,3 +1,3 @@
-var Zip = {
-  Map: { }
+var US = {
+  States: { }
 }
