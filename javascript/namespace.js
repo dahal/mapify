@@ -1,1 +1,3 @@
-namespace.js
+var Zip = {
+  Map: { }
+}
