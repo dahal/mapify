@@ -12,8 +12,8 @@ US.States.Controller = function(views) {
   };
 
   this.mapOptions = function(zoom, center) {
-    var us = new google.maps.LatLng(37.77, -122.437)
-    var zoom = zoom || 14
+    var us = new google.maps.LatLng(40.04443758460856, -99.228515625)
+    var zoom = zoom || 4
     var center = center || us
 
     return {
@@ -32,7 +32,7 @@ US.States.Controller = function(views) {
     var map = this.map()
     map.setOptions({styles: this.mapStyle()});
 
-    $.getJSON("data/kevin.json", function(zipcodes) {
+    $.getJSON("data/states.json", function(zipcodes) {
       for (var i = 0; i < zipcodes.length; i++) {
         var zipcode = zipcodes[i]
         var latlng = new google.maps.LatLng(zipcode.lat, zipcode.long);
